@@ -1,7 +1,5 @@
 # data-skill-development
 Documentation of data cleaning, visualization, and analysis projects learning process.
 
-
-My Passport <a href="https://github.com/salihuddinsidek/data-skill-development/blob/main/passport.JPG" >View Dashboard </a>
-
+Testing 1 2 3 4 5 6 
 
